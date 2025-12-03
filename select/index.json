@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Pretty Old Man",
+  "base_artist": "No Buses",
+  "createdAt": "2025-12-03T23:29:16.739315Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pretty Old Man",
+      "artist": "No Buses",
+      "has_synced": true,
+      "path": "select/01_Pretty_Old_Man_No_Buses.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pretty Old Man",
+      "artist": "No Buses",
+      "has_synced": false,
+      "path": "select/pl_01_Pretty_Old_Man_No_Buses.txt"
+    }
+  ]
+}
